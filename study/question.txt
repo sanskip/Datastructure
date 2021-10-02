@@ -1,0 +1,15 @@
+how can u achieve multithreading apart from cluster.
+go through webworker module,npm,callback hell,json,jsonp,devops,aws,editplus,redis,promises.
+how to maintain 1 million transaction/second.
+how to communicate between two servers.(pubsub module)
+digestcycle,compile, apply ,broadcast ,call
+ angular.js testing
+ how watch is working.
+ how to stop and deactivate watch
+ link function
+ $transclude
+ 
+ 
+ how the event listener working in browser
+ how to handle login snoofing
+ 

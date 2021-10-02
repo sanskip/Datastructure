@@ -1,0 +1,60 @@
+1>>>>>>>>>>>>>>>>>>.
+Prepare a single web page with an embedded Google Map using Nodejs/Angularjs. 
+
+User can add markers by click on this map.
+
+Consider a cab marker at any input location on the map. Given an array locations of passengers as latitude,longitude pairs, derive shortest route starting at cab location to the last location in the array.
+
+Constraints/flow:
+1. Accept starting location by click on map.
+
+2. Accept intermediate points by click on the map.
+
+3. Intermediate points input can be stopped by clicking finish/stop button.
+ 
+4. On click of finish, show the shortest route on the map from start location to the last location covering all intermediate points.
+
+5. The algorithm for deriving shortest path must be self-written i.e. you cannot use Directions API or any readily available code for deriving shortest route for given array of locations.
+
+6. You can use any readily available APIs to calculate the distance between any pair of intermediate points.
+
+Let me know if you've any difficulties in understanding the problem statement and output.
+
+This small task is for assessing algorithm and UI skill.
+
+
+
+
+
+
+2>>>>>>>>>>>>>>>>>>.
+Problem Description 
+
+Create a repository on GitHub and write a program in any programming language that will do the following: 
+
+Input : User can input a link to any public GitHub repository
+
+Output :
+
+Your UI should display a table with the following information -
+
+- Total number of open issues
+
+- Number of open issues that were opened in the last 24 hours
+
+- Number of open issues that were opened more than 24 hours ago but less than 7 days ago
+
+- Number of open issues that were opened more than 7 days ago 
+
+Deploy your application to Heroku or similar platform. 
+
+Please be careful about the following -
+- The code should be well commented and easy to understand.
+- Include a readme file explaining your solution and a URL where the application is live
+- In the readme file, please also explain how you could improve your solution given more time
+
+Tips
+As an example, the issues for our public customer support repository are at - https://github.com/Shippable/support/issues
+
+You can use this repository data to test your code. 
+

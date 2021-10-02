@@ -1,0 +1,59 @@
+what all are oops concept used in ur project in js.
+how to achieve interitance in js.
+module pattern,singleton.
+what will happen if not use prtotype keyword in object property define in js.
+what is callback,what is closer.
+how do u get the no of arguments(arguments.length)
+what is event capturing event bubling
+service vs factory
+how to share data between to controllers (service method &root scope).
+html5 features.
+local storage and session storage.
+css fox model,position property,default property.absolute property. 
+what is directives in angular,example and custom directives.
+scope and rootscope in angular.
+dirty-checking,error checking-directive.
+digest,apply,watch explain and difference.
+what is anular-controller.
+how can u share data between two controller.(rootscope,service).
+what is dependency injection.
+explain broadcast.
+service and factory.
+how to implement routing in angular.
+link and compile in angular.
+promises in angular.
+ajax call in angular.
+$http in angular.(asynchronous false)
+routeprovider in angular.
+difference between stateprovider and routeprovider.
+how to get selected value from dropdown in jquery.
+how to select multiple element in jquery.
+explain broadcast and emit.
+how can u define angular application and controller.
+angular tools or tourist.
+run mehod in angular.le
+single page application explain with example.
+isolated scope,property of custom directive.
+filter and custom filter.
+new tags in html.
+how to write media query in bootstrap.
+positions in css.
+difference between inline and block and inline-block.
+hoisting in javascript.
+different ways to invoke function.
+benefits of angular.js,why using.
+reference link unit testing and e2e testing-https://docs.angularjs.org/guide/services
+form validation with error and suggestion.
+how do u handling route.
+simentics in html.
+difference b/w max-value and max-length and size.
+disply block,visible block.
+document.ready and body.onload difference.
+size and length difference in jquery.
+empty and remove funtion difference.
+ajax call.
+What is the difference between '@' and '=' in directive scope in AngularJS?
+Difference between angular-route and angular-ui-router.
+explain transclude.
+explain ng-include, ng-switch.
+
